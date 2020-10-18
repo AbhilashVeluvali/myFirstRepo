@@ -1,4 +1,4 @@
-// Prohram to add two numbers
+// Program to add two numbers
 #include<stdio.h>
 int add(int,int); //function declaration
 int main()
